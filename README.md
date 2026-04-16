@@ -88,4 +88,4 @@ This project is built by following the excellent **"Full Machine Learning Projec
 
 The project layout is based on the [Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data-science/) template.
 
-The Chauvenet's criterion and rolling-window abstraction code is adapted from [Mark Hoogendoorn & Burkhardt Funk — Machine Learning for the Quantified Self (ML4QS)](https://github.com/mhoogen/ML4QS).
+Some functions and classes were taken from [ML4QS](https://github.com/mhoogen/ML4QS).
